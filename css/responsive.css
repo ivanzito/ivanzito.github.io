@@ -1,7 +1,7 @@
 /* responsividade */
 
 
-/* @media only screen and (max-width: 400px) {
+ @media only screen and (max-width: 400px) {
 
     #header__background {
         height: 100px;    
@@ -37,7 +37,7 @@
         left: 0%;
         right: 0%;
     }
- } */
+ }
 
   @media screen and (max-width: 450px) {
 
@@ -92,7 +92,7 @@
     }
 
     footer {
-        height: 100px;
+        height: 50px;
         position: fixed;
     }  
 
